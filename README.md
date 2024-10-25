@@ -30,5 +30,5 @@
 
 ## Technologies Used
 - **Python**: Main programming language used.
-- **Pygame Library for game development and graphics.
+- **Pygame**: Library for game development and graphics.
 
