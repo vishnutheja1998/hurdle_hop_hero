@@ -17,4 +17,18 @@
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/hurdle_hop_hero.git
+   git clone https://github.com/vishnutheja1998/hurdle_hop_hero.git
+
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the game**:
+   ```bash
+   python jumping_game.py
+
+
+## Technologies Used
+- **Python**: Main programming language used.
+- **Pygame Library for game development and graphics.
+
