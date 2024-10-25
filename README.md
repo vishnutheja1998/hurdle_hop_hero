@@ -1,6 +1,6 @@
 # Hurdle Hop Hero
 
-![Game Screenshot](screenshots/game_demo.png)
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/3cb8b7ff-92a4-49c3-b9bb-27bb48237fd6">
 
 **Hurdle Hop Hero** is a simple yet thrilling one-button game where you control a character that jumps over obstacles. Created using Python and Pygame, it’s easy to play but challenging to master.
 
