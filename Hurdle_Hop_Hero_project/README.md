@@ -17,4 +17,4 @@
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/hurdle_hop_hero.git
+   git clone https://github.com/vishnutheja1998/hurdle_hop_hero.git
